@@ -17,10 +17,10 @@ To run the Tic-Tac-Toe game locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/arijitmukherjee983/tic-tac-toe.git
+   git clone https://github.com/arijitmukherjee983/Tic-Tac-Toe.git
    cd Tic-Tac-Toe
 
 2. **Open the Game**
   Open the index.html file in your web browser. You can do this by double-clicking the file or using the file:// protocol in your browser’s address bar:
    ```bash
-   file:///path/to/tic-tac-toe/index.html
+   file:///path/to/Tic-Tac-Toe/index.html
