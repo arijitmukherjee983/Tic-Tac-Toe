@@ -1,26 +1,49 @@
-# Tic-Tac-Toe
+# ✨ Tic-Tac-Toe Game
 
-## Overview
+A fun and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. Play against a friend in your browser.
 
-This repository contains a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript. The game allows two players to play Tic-Tac-Toe in their web browser.
+---
+## 🕹️ How to Play
 
-## Files
+- Two players take turns: **X** and **O**
+- Click on any empty square to place your mark
+- First to get 3 in a row (horizontally, vertically, or diagonally) wins
+- If all 9 squares are filled without a winner, it’s a draw
 
-- **index.html**: The main HTML file that sets up the game board and includes references to the CSS and JavaScript files.
-- **style.css**: The CSS file that styles the game board and the game elements.
-- **script.js**: The JavaScript file that contains the game logic and handles user interactions.
 
-## Installation
+---
 
-To run the Tic-Tac-Toe game locally, follow these steps:
 
-1. **Clone the Repository**
+## 🛠️ Project Structure
+```
+tic-tac-toe/
+├── index.html # Main HTML structure
+├── style.css # Styling and layout
+└── script.js # Game logic and interactivity
+```
 
-   ```bash
-   git clone https://github.com/arijitmukherjee983/Tic-Tac-Toe.git
-   cd Tic-Tac-Toe
 
-2. **Open the Game**
-  Open the index.html file in your web browser. You can do this by double-clicking the file or using the file:// protocol in your browser’s address bar:
-   ```bash
-   file:///path/to/Tic-Tac-Toe/index.html
+---
+
+
+## 🔧 Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/arijitmukherjee983/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
+```
+### 2. **Open the Game**
+Open the index.html file in your web browser. Double-click OR right-click and select "Open with browser".
+
+
+
+---
+
+
+## 🖼️ Demo
+
+> [Live Demo](https://arijitmukherjee983.github.io/Tic-Tac-Toe/)
+
+
+---
